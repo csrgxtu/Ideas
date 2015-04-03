@@ -8,3 +8,6 @@ I remember I use the native Cron Shechdul the task for the project, I should cho
 [tty.js](https://github.com/chjj/tty.js/) will let you run a terminal in the browser, that is cool.
 
 Someone use Node and Linux kernel developed a Operating system [NodeOS](http://node-os.com/)
+
+[Teminal Muxer tutsplus](http://code.tutsplus.com/tutorials/intro-to-tmux--net-33889)
+[Terminal Muxer](https://danielmiessler.com/study/tmux/#intro)
