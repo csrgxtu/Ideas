@@ -14,3 +14,5 @@
 [Groovy's author like scala](http://macstrac.blogspot.com/2009/04/scala-as-long-term-replacement-for.html)
 
 [Zhihu on Java Scala Groovy Closure etc](http://www.zhihu.com/question/21740715)
+
+[Ninja a java framework seems simple](http://www.ninjaframework.org/documentation/getting_started/installing_ninja.html)
