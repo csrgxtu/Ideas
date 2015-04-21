@@ -16,3 +16,7 @@
 [Zhihu on Java Scala Groovy Closure etc](http://www.zhihu.com/question/21740715)
 
 [Ninja a java framework seems simple](http://www.ninjaframework.org/documentation/getting_started/installing_ninja.html)
+
+[Maven Tutorial](http://tutorials.jenkov.com/maven/maven-tutorial.html)
+
+[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
