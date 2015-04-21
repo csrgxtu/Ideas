@@ -20,3 +20,9 @@
 [Maven Tutorial](http://tutorials.jenkov.com/maven/maven-tutorial.html)
 
 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
+[如何自学android编程](http://www.zhihu.com/question/26417244)
+
+[Mars android](http://marschen.com/portal.php)
+
+[极客学院](http://www.jikexueyuan.com/)
