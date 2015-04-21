@@ -26,3 +26,7 @@
 [Mars android](http://marschen.com/portal.php)
 
 [极客学院](http://www.jikexueyuan.com/)
+
+[android dev com](http://www.jikexueyuan.com/)
+
+[android dev cn](https://github.com/android-cn/android-dev-cn)
