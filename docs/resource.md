@@ -34,3 +34,9 @@
 [ucademy android free](https://www.udemy.com/learn-by-doing-android-for-beginners/?dtcode=PZMXNf52MlKR)
 
 [Websocket and SocketIO](http://davidwalsh.name/websocket)
+
+[Opencv FFT Python Documentation](http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html)
+
+[Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
+
+[
