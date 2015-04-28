@@ -39,4 +39,6 @@
 
 [Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 
-[
+[Reading and Writing Audio Files with wave](http://nbviewer.ipython.org/github/mgeier/python-audio/blob/master/audio-files/audio-files-with-wave.ipynb)
+
+[Github Python-Wavefile](https://github.com/vokimon/python-wavefile)
