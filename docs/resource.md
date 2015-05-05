@@ -46,3 +46,5 @@
 [好文分享](http://tantannews.com/%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB/)
 
 [台湾的好文](http://www.cmoney.tw/notes/?bid=38952)
+
+[台湾生活资讯](http://www.life.com.tw/)
