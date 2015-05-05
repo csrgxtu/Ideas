@@ -42,3 +42,5 @@
 [Reading and Writing Audio Files with wave](http://nbviewer.ipython.org/github/mgeier/python-audio/blob/master/audio-files/audio-files-with-wave.ipynb)
 
 [Github Python-Wavefile](https://github.com/vokimon/python-wavefile)
+
+[好文分享](http://tantannews.com/%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB/)
