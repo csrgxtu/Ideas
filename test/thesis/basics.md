@@ -5,6 +5,7 @@ author:
   url: http://github.com/csrgxtu
 output: basic.html
 controls: true
+theme: themes/reveal-cleaver-theme
 
 --
 # Cleaver 101

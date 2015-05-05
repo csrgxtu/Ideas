@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>{{title}}</title>
+    <meta charset="{{encoding}}">
+    <meta name="viewport" content="width=792, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+
+    <style>
+        {{{style}}}
+        {{{externalStyle}}}
+    </style>
+
+</head>
+<body class="list">
+
+    <header class="caption">
+        <h1>{{title}}</h1>
+        <p><a href="{{author.url}}">{{author.name}}</a>, {{custom.company}}</p>
+    </header>
+
+    {{{slideshow}}}
+
+    <div class="progress"><div></div></div>
+    
+    <script type="text/javascript">
+        {{{script}}}
+    </script>
+</body>
+</html>
