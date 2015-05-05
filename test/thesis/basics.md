@@ -1,7 +1,7 @@
 title: Basic Example
 author:
   name: Archer Reilly
-  twitter: csrgxtu
+  email: 1246506786@qq.com
   url: http://github.com/csrgxtu
 output: basic.html
 controls: true
