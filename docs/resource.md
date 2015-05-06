@@ -52,3 +52,7 @@
 [Dreamforce Windows voice reg](http://dreamforce.me/archives/560)
 
 [NLPJob 大数据相关工作](http://www.mobvoi.com)
+
+[Simple speech recognition in Python](http://www.vikparuchuri.com/blog/simple-speech-recognition-in-python/)
+
+[Speech recognition helloworld in Python](http://kermit.epska.org/2011/python-speech-recognition-helloworld/)
