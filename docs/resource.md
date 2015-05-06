@@ -56,3 +56,7 @@
 [Simple speech recognition in Python](http://www.vikparuchuri.com/blog/simple-speech-recognition-in-python/)
 
 [Speech recognition helloworld in Python](http://kermit.epska.org/2011/python-speech-recognition-helloworld/)
+
+[Raspberry Pi Voice Recognition Works Like Siri](http://blog.oscarliang.net/raspberry-pi-voice-recognition-works-like-siri/)
+
+[ROS by Example: Speech Recognition and Text-to-Speech (TTS)](http://www.pirobot.org/blog/0022/)
