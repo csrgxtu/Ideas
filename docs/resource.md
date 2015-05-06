@@ -60,3 +60,5 @@
 [Raspberry Pi Voice Recognition Works Like Siri](http://blog.oscarliang.net/raspberry-pi-voice-recognition-works-like-siri/)
 
 [ROS by Example: Speech Recognition and Text-to-Speech (TTS)](http://www.pirobot.org/blog/0022/)
+
+[密西西比河谷州立大学：Android应用程序开发](http://open.163.com/special/opencourse/developingandroidapplications.html)
