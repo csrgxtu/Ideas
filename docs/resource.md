@@ -64,3 +64,7 @@
 [密西西比河谷州立大学：Android应用程序开发](http://open.163.com/special/opencourse/developingandroidapplications.html)
 
 [Programming Mobile Applications for Android Handheld Systems: Part 1](https://www.coursera.org/course/androidpart1?action=enroll&sessionId=974532)
+
+[Github Android resource](https://github.com/nemoTyrant/manong#ANDROID)
+
+[Android Get started](https://github.com/Tikitoo/Android-Getting-Started/blob/master/Guide/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6Android%EF%BC%8C%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB.md)
