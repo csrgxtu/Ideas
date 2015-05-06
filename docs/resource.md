@@ -48,3 +48,7 @@
 [台湾的好文](http://www.cmoney.tw/notes/?bid=38952)
 
 [台湾生活资讯](http://www.life.com.tw/)
+
+[Dreamforce Windows voice reg](http://dreamforce.me/archives/560)
+
+[NLPJob 大数据相关工作](http://www.mobvoi.com)
