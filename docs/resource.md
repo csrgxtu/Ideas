@@ -72,3 +72,9 @@
 [CS193A Android APP development](http://web.stanford.edu/class/cs193a/homework.shtml)
 
 [30 Great Programming & Development Video Courses from Pearson’s LiveLessons Series](http://www.informit.com/blogs/blog.aspx?uk=30-Great-Programming-Development-Video-Courses-from-Pearsons-LiveLessons-Series)
+
+[The Spring Framework: a tutorial](http://courses.coreservlets.com/Course-Materials/spring.html)
+
+[Spring Tutorial](http://www.mkyong.com/tutorials/spring-tutorials/)
+
+[Java Tutorial for beginners](http://www.java2blog.com/2012/08/introduction-to-spring-framework.html)
