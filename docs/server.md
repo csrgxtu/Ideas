@@ -9,3 +9,5 @@
 [Oracle Database 11g Release 2 Installation on RHEL/CentOS 6.x/5.x/4.x](http://www.tecmint.com/oracle-database-11g-release-2-installation-in-linux/)
 
 [Yum donwload the packages only](http://www.cyberciti.biz/faq/yum-downloadonly-plugin/)
+
+[centos 7 安装oracle](http://www.cnblogs.com/fantasy01/p/4180339.html)
