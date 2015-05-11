@@ -7,3 +7,5 @@
 [CentOS下无界面静默安装oracle 11g](http://wiselyman.iteye.com/blog/2115934)
 
 [Oracle Database 11g Release 2 Installation on RHEL/CentOS 6.x/5.x/4.x](http://www.tecmint.com/oracle-database-11g-release-2-installation-in-linux/)
+
+[Yum donwload the packages only](http://www.cyberciti.biz/faq/yum-downloadonly-plugin/)
