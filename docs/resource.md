@@ -80,3 +80,5 @@
 [Java Tutorial for beginners](http://www.java2blog.com/2012/08/introduction-to-spring-framework.html)
 
 [尚硅谷](http://www.atguigu.com/download.shtml)
+
+[How convert the presentation of slidify in a pdf file?](https://github.com/jtleek/dataanalysis/issues/18)

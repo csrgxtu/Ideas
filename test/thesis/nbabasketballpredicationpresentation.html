@@ -458,24 +458,54 @@ pre .chunk {
   </div>
   <div class="slide hidden" id="slide-9">
     <section class="slide-content"><h3 id="-">研究现状</h3>
-<h4 id="-">研究综述（一）</h4>
-<p>近年来，体育竞技的分析已经演变成为一个重要的领域。国内外有很多相关研究文献,尽管这些研究文献较多, 但绝大多数是使用文献资料、比较分析和录像观察等方法进行的研究，参考文献[3][4][5], 部分也使用了一些较简单的描述性统计分析方法，比如：Logistic模型找出主要影响因[6]、Fisher 判别分析[7], 主成分分析/聚类分析/相关分析[8],Logistic 和Bayes 模型[9]，Harville（1997）通过两支球队的比分差，利用regression analysis高中大学足球比赛结果[10]，Sagarin ratings published in USA Today[11] 仅有少数使用统计建模方法进行实证分析，</p>
+<h4 id="-">研究综述</h4>
+<p>近年来，体育竞技的分析已经演变成为一个重要的领域。大体上，对体育竞技的分析主要分为两个方面，分别为：</p>
+<ul>
+<li><p>传统的人为比较分析，视频解说方法</p>
+</li>
+<li><p>简单的统计分析方法</p>
+</li>
+</ul>
 </section>
   </div>
   <div class="slide hidden" id="slide-10">
-    <section class="slide-content"><h4 id="-">研究综述（二）</h4>
-<p>比如：Paul Kvam,Jeol S.Sokol利用Logistic Regression/Markov Chain Model for NCCA Basketball[10].Feifang Hu and James V.Zidek 利用权重似然估计对NBA季后赛结果的预测[11],Kaplan and Garstka[12]通过动态规划模型预测每支球队面临不同球队的胜负概率，Caudi来了安定Godwini利用多样性的影响准确性的对数模型预测球队的胜负。由于分析的手段不同、角度不同, 尚有许多问题没有涉足, 尤其是基于统计建模方法对于NBA比赛胜负的影响因素进行较全面的分析, 有待进一步深入。</p>
+    <section class="slide-content"><h4 id="-">传统的比较分析方法</h4>
+<p>通过人为的视频解说，比赛情况分析进行研究的方法，参考文献[<a href="#">3</a>],[<a href="#">4</a>],[<a href="#">5</a>]</p>
 </section>
   </div>
   <div class="slide hidden" id="slide-11">
+    <section class="slide-content"><h4 id="-">简单的统计分析方法</h4>
+<p>使用一些较简单的描述统计分析方法，如:</p>
+<ul>
+<li>使用Logistic模型找出主要的影响特征[<a href="#">6</a>]</li>
+<li>使用Fisher判别分析[<a href="#">7</a>]</li>
+<li>使用主成分分析/聚类分析/相关性分析[<a href="#">8</a>]</li>
+<li>使用Bayes模型[<a href="#">9</a>]</li>
+<li>使用回归模型[<a href="#">10</a>]</li>
+<li>Garstka通过动态规划模型预测胜负概率[<a href="#">11</a>]</li>
+<li>Feifang Hu and James V.Zidek利用权重似然估计对NBA季后赛进行预测[<a href="#">12</a>]</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-12">
     <section class="slide-content"><h3 id="-">研究内容和意义</h3>
-<h4 id="-">研究内容</h4>
-<h4 id="-">研究意义</h4>
+<h4 id="-">研究内容（一）</h4>
+<p>通过对获取的1993-2013赛季20个常规赛技术统计数据进行分析，得出影响比赛结果较为全面的数据特征，利用最大熵模型对大量的特征数据进行权重的计算。</p>
+<p>其次，采用幂方法，比赛对手的实力能过反应参赛队的实力，让球队之间相互投票，根据比赛结果的胜负对球队进行实力排名，对实力进行划分够造实力差。</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-13">
+    <section class="slide-content"><h4 id="-">研究内容（二）</h4>
+<p>最后，综合分析影响比赛胜负的主要因素和球队实力的差值，再次通过最大熵原理求出影响比赛结果因素的权重，建立最优条件概率模型。将比赛的最近几场赛事的特征数据的平均值带入最优条件概率模型中。计算出参赛球队获胜的概率，给赛事关注者一个科学比赛预测</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-14">
+    <section class="slide-content"><h4 id="-">研究意义</h4>
 <p>中国的体育彩票市场非常庞大，例如足球，篮球等。众多的球迷，公司投身其中，希望通过彩票市场获取盈利。但是球迷，公司等往往不能对赛事情况做整体判断，通常是使用主观的方法投注。</p>
 <p>本研究的意义在于给出一种可行的计算篮球胜负概率的方案，使得球迷及公司有一个投注参考，同时提高篮球胜负预测的准确率。</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-12">
+  <div class="slide hidden" id="slide-15">
     <section class="slide-content"><h3 id="-">研究方案</h3>
 <p>本课题的研究重点是使用统计学习方法和大数据相关技术对篮球比赛结果进行预测。</p>
 <ul>
@@ -488,7 +518,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-13">
+  <div class="slide hidden" id="slide-16">
     <section class="slide-content"><h3 id="-">实验方案</h3>
 <h4 id="-">已有实验条件</h4>
 <p>内存2GB，硬盘160GB，2.4GHZ Intel I3 CPU的DELL台式机</p>
@@ -497,7 +527,7 @@ pre .chunk {
 <p>Apache Mahout Libaries</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-14">
+  <div class="slide hidden" id="slide-17">
     <section class="slide-content"><h4 id="-">实验设计方案</h4>
 <ul>
 <li><p>从互联网上整理有关NBA篮球赛事的数据</p>
@@ -511,7 +541,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-15">
+  <div class="slide hidden" id="slide-18">
     <section class="slide-content"><h3 id="-">工作进展</h3>
 <h4 id="-">工作进展情况</h4>
 <ul>
@@ -523,7 +553,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-16">
+  <div class="slide hidden" id="slide-19">
     <section class="slide-content"><h4 id="-">存在的问题</h4>
 <ul>
 <li>NBA赛事数据的不完整性</li>
@@ -532,7 +562,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-17">
+  <div class="slide hidden" id="slide-20">
     <section class="slide-content"><h4 id="-">解决方法</h4>
 <ul>
 <li>继续收集完善数据</li>
@@ -541,7 +571,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-18">
+  <div class="slide hidden" id="slide-21">
     <section class="slide-content"><h3 id="-">工作进度和安排</h3>
 <ul>
 <li><p>2014.07 - 2014.09 参考资料，基本文献，研究综述的整理完善</p>
@@ -555,7 +585,7 @@ pre .chunk {
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-19">
+  <div class="slide hidden" id="slide-22">
     <section class="slide-content"><h3 id="-">参考文献</h3>
 <p>[1]Ratnaparkhi A．Maximum entropy models for natural language am—biguity resolution[D]．University of Pennsylvania．1 998．</p>
 <p>[2]perrron定理</p>
@@ -563,7 +593,7 @@ pre .chunk {
 <p>[9]白银龙,柳景. 2010-2011赛季NBA总决赛进攻技术研究[J]. 云南师范大学学报(自然科学版),2012,03:74-78.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-20">
+  <div class="slide hidden" id="slide-23">
     <section class="slide-content"><h3 id="-">参考文献</h3>
 <p>[10]王焕波. 2011-2012赛季NBA总决赛技术统计分析[J]. 德州学院学报,2014,04:85-88.</p>
 <p>[11]李林杰,张学东. 影响NBA常规赛胜负的Logistic分析[J]. 统计教育,2008,04:40-41.</p>
@@ -572,7 +602,7 @@ pre .chunk {
 <p>[14]邱胜,段重阳,陈征. NBA季后赛成绩分析及预测:Logistic和Bayes模型[J]. 统计教育,2010,10:46-51+25.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-21">
+  <div class="slide hidden" id="slide-24">
     <section class="slide-content"><div class="author">
   <h1 class="name">Archer Reilly</h1>
     <h3 class="url">
