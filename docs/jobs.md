@@ -5,4 +5,5 @@
 [程序员如何正确的评估自己的薪资](http://get.jobdeer.com/1612.get)  
 [Resume template for Chinese programmers](https://github.com/geekcompany/ResumeSample)  
 [再谈“我是怎么招聘程序员的”](http://blog.csdn.net/haoel/article/details/6338025)  
+[酷狗招聘](http://www.kugou.com/job/hr/html/social.html)  
 
