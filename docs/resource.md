@@ -81,4 +81,6 @@
 
 [尚硅谷](http://www.atguigu.com/download.shtml)
 
-[How convert the presentation of slidify in a pdf file?](https://github.com/jtleek/dataanalysis/issues/18)
+[How convert the presentation of slidify in a pdf file?](https://github.com/jtleek/dataanalysis/issues/18)  
+
+[Node-Webkit](http://nwjs.io/)
